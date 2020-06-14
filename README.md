@@ -36,8 +36,7 @@ Work Progress
 	* Accuracy : `~75%`.
 * Using this classifier to predict `origin recipes` in a new corpus `recipes_raw_nosource_ar.json`.
 * Indexing `./Recipe_prediction//final_recipes_1.json` in Solr.
-* Parameter configuration of Solr platform to obtain : ![this interface](/home/terjani/Images/Geography_Solr.png?raw=true "Interface Solr for information search")
-
+* Parameter configuration of Solr platform to obtain `Geography_Solr.png`
 
 
 
